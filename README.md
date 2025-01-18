@@ -48,7 +48,8 @@
 ||||1|
 ||||1|
 ### 2-2. 시스템 구성도
-![image](https://github.com/user-attachments/assets/2c28968a-923e-464b-b05c-a007fa352385)
+![image](https://github.com/user-attachments/assets/fae45f95-c3f6-4eae-94e3-eef28eb175d2)
+
 
 ### 2-3. 로봇 상태다이어그램
 ![image](https://github.com/user-attachments/assets/e8d916ec-58f4-4117-b565-94bf31fa2f20)
