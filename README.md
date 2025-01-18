@@ -52,7 +52,8 @@
 
 
 ### 2-3. 로봇 상태다이어그램
-![image](https://github.com/user-attachments/assets/e8d916ec-58f4-4117-b565-94bf31fa2f20)
+![image](https://github.com/user-attachments/assets/c4b5e952-a4de-4755-a24e-afeeff3aa63e)
+
 
 ### 2-4. 시나리오
 ### 2-5. 맵 구성
