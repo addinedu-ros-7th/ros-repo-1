@@ -15,6 +15,13 @@
 |하드웨어|<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=white" style="width: 97px; height: 20px;">
 |형상관리 및 협업|<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" style="width: 67px; height: 20px;"/> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" style="width: 87px; height: 20px;"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" style="width: 60px; height: 20px;">|
 ### 1-3. 팀원 소개
+|구분|이름|업무|
+|---|---|---|
+|팀장|공도웅||
+|팀원|조성현||
+|팀원|김선웅||
+|팀원|장윤정||
+
 ## 2. 프로젝트 설계
 ### 2-1. 주요 기능
 |분류|기능|설명|우선순위|
