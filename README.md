@@ -56,7 +56,8 @@
 ### 2-4. 시나리오
 ### 2-5. 맵 구성
 ## 3. 프로젝트 구현
-### 3-1. GUI (작업자 GUI)
+### 3-1. GUI (관제 GUI)
+![Image](https://github.com/user-attachments/assets/46dbbc39-710f-4a1a-adf2-e3a1d3ce944d)
 ### 3-2. SLAM
 ### 3-3. Path Planning(A*)
 ### 3-4. ROS Domain Bridge
