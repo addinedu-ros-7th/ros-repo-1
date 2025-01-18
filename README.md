@@ -48,7 +48,7 @@
 ||||1|
 ||||1|
 ### 2-2. 시스템 구성도
-
+![Image](https://github.com/user-attachments/assets/e3cab311-c400-4350-b4f6-13c06200eb58)
 
 
 
