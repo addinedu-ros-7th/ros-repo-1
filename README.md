@@ -61,7 +61,10 @@
 ### 2-5. 맵 구성
 ## 3. 프로젝트 구현
 ### 3-1. GUI (관제 GUI)
-![Image](https://github.com/user-attachments/assets/46dbbc39-710f-4a1a-adf2-e3a1d3ce944d)
+![Image](https://github.com/user-attachments/assets/320f3be9-a964-4765-80ce-6be947fbbda2)
+![Image](https://github.com/user-attachments/assets/74e9afa9-1cc7-4b73-a828-b5217382ebad)
+![Image](https://github.com/user-attachments/assets/b923f908-a1f1-4f4e-b734-6df3e331b230)
+
 ### 3-2. SLAM
 ### 3-3. Path Planning(A*)
 ### 3-4. ROS Domain Bridge
